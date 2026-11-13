@@ -53,6 +53,6 @@ YT Cloner is free and maintained with care. If it saved you hours of tedious wor
 
 - 🌍 **International:** [Buy Me a Coffee](https://buymeacoffee.com/abdullahahs) *(Supports Cards, Apple Pay & Google Pay)*
 - 🇮🇳 **India (UPI / PhonePe):**
-  - **PhonePe Number:** `9209066133` *(Open PhonePe ➔ "To Mobile Number" to transfer without bank decline)*
+  - **PhonePe Number:** `--------68` *(Open PhonePe ➔ "To Mobile Number" to transfer without bank decline)*
   - **UPI ID:** `9209066133@ybl`
   - Or scan the official QR code directly in the app's **Support** menu.
